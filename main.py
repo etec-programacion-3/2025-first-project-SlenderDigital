@@ -4,6 +4,8 @@ import colorsys
 import random
 from bouncing_rectangle import BouncingRectangle
 
+# ONE COMMENT
+
 def create_fractal_music_pattern(width=1000, height=600):
     pygame.init()
     screen = pygame.display.set_mode((width, height))
